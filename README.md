@@ -27,7 +27,7 @@ With hands-on experience at **General Electric Aviation** and **Intel**, I bring
 
 ### **💼 Professional Experience**
 
-**🔧 General Electric Aviation** – *Data Scientist* (May 2024 – Present)  
+**🔧 General Electric Aerospace** – *Data Scientist* (May 2024 – Present)  
 - Built a machine learning model to predict cost index, reducing fuel consumption prediction error by **15%** across Boeing and Airbus fleets  
 - Improved aircraft fuel flow model accuracy by **20%** through enhanced Mach sensitivity  
 - Automated data pipelines for flight analysis, cutting cleaning time by **30%**  
