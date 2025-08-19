@@ -3,7 +3,7 @@
 
 ### 🚀 Data Scientist | BI Analyst | Machine Learning Engineer | AI Engineer
 
-📍 Portland, OR | ✉️ [manisa.doc@gmail.com](mailto:manisa.doc@gmail.com) | 📞 360-989-0142 | 🔗 [LinkedIn](https://www.linkedin.com/in/manisha-shah1) | [Website](https://manisa504.github.io/manisha_repo/)
+📍 Portland, OR | ✉️ [manisa.doc@gmail.com](mailto:manisa.doc@gmail.com) | 📞 360-989-0142 | 🔗 [LinkedIn](https://www.linkedin.com/in/manisa-shah/) | [Website](https://manisa504.github.io/manisha_repo/)
 
 ---
 
@@ -76,6 +76,6 @@ I’m passionate about **bridging data and decision-making**. Whether it's reduc
 ### **💬 Let’s Connect**
 
 Want to collaborate, hire, or just say hi?  
-📩 [manisa.doc@gmail.com](mailto:manisa.doc@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/manisha-shah1)
+📩 [manisa.doc@gmail.com](mailto:manisa.doc@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/manisa-shah/)
 
 ---
