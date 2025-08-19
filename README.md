@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm **Manisha Shah**
 [](https://github.com/manisa504/manisha_repo/blob/main/public/assets/images/manisha_profile_pic.png)
 
-### 🚀 Data Scientist | BI Analyst | Machine Learning Engineer | AI Engineer
+### 🚀 Data Scientist | Machine Learning Engineer | AI Engineer
 
 📍 Portland, OR | ✉️ [manisa.doc@gmail.com](mailto:manisa.doc@gmail.com) | 📞 360-989-0142 | 🔗 [LinkedIn](https://www.linkedin.com/in/manisa-shah/) | [Website](https://manisa504.github.io/manisha_repo/)
 
